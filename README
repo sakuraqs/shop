@@ -1,0 +1,5 @@
+一个网上商城的代码，每天上传一部分。写完后会把整个源码上传
+manger目录下的jsp：
+admin_useradd.jsp:添加用户界面
+admin_usermodify.jsp:用户修改界面
+admin_user.jsp:用户界面
