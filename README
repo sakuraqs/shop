@@ -6,3 +6,9 @@ admin_useradd.jsp:添加用户界面
 admin_usermodify.jsp:用户修改界面
 admin_user.jsp:用户界面
 admin_menu.jsp:菜单
+jsp:
+register.jsp:注册页面
+css：
+login.css:登录和注册的css样式表
+js：
+function.js:注册页面验证
