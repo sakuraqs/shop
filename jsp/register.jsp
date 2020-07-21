@@ -24,7 +24,7 @@
 </head>
 <body><!-------------------reg-------------------------->
 <div class="reg">
-    <form action="#" method="post"><h1><a href="index.html"><!--  img src="学习猿地"--></a></h1>
+    <form action="register" method="post" onsubmit="return checkForm(this)"><h1>
         <p><input type="text" name="userName" value="" onfocus="FocusItem(this)" onblur="CheckItem(this)" placeholder="用户名"><span class="error">用户名不能为空</span></p>
         <p><input type="text" name="name" value="" onfocus="FocusItem(this)" onblur="CheckItem(this)" placeholder="用户姓名"><span></span></p>
         <p><input type="text" name="passWord" value="" onfocus="FocusItem(this)" onblur="CheckItem(this)" placeholder="密码"><span></span></p>
