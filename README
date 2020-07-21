@@ -1,6 +1,12 @@
 一个网上商城的代码，每天上传一部分。写完后会把整个源码上传
 环境：eclipse，SQLserver2008，jstl，BOOKSTRAP，Tomcat9.0
 目录:
+java:
+com.lmonkey.dao/Basedao:连接数据库
+com.lmonkey.entity/LMONKEY_USER:实例化
+con.lmonkey.servlet.user:
+            DoUserAdd:用户添加的servlet
+            DoUserSelect：查找的servlet
 manger:
 admin_useradd.jsp:添加用户界面
 admin_usermodify.jsp:用户修改界面
