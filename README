@@ -5,16 +5,20 @@ java:
 com.lmonkey.dao/Basedao:连接数据库
 com.lmonkey.entity/LMONKEY_USER:实例化
 con.lmonkey.servlet.user:
-            DoUserAdd:用户添加的servlet
-            DoUserSelect：查找的servlet
+            DoUserAdd:用户添加
+            DoUserSelect：查找
+            DoUserDel：删除
 manger:
 admin_useradd.jsp:添加用户界面
 admin_usermodify.jsp:用户修改界面
 admin_user.jsp:用户界面
 admin_menu.jsp:菜单
+login.jsp：后台登录页面
 jsp:
 register.jsp:注册页面
+login.jsp:登录页面
 css：
 login.css:登录和注册的css样式表
 js：
 function.js:注册页面验证
+
